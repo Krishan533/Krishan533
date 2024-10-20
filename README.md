@@ -7,6 +7,17 @@ ipalogama,NCP
 Sri lanka.
 (+94)705184533
 
+skills
+HTML,CSS,Figma to design
+
+EDucation
+SRi lanka (O/L)
+					(A/L)
+
+Across the internet
+
+
+
 <!--
 **Krishan533/Krishan533** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
