@@ -2,17 +2,6 @@
 Krishantha lakdilu perera
 junior frontend DEveloper
 
-ANP896 Ranajayapura
-ipalogama,NCP
-Sri lanka.
-(+94)705184533
-
-skills
-HTML,CSS,Figma to design
-
-EDucation
-SRi lanka (O/L)
-					(A/L)
 
 Across the internet
 
